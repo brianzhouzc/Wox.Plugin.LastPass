@@ -1,0 +1,12 @@
+.nuget/NuGet.exe
+packages/
+example/bin/
+example/obj/
+example/credentials.txt
+src/bin/
+src/obj/
+test/bin/
+test/obj/
+lastpass-sharp.suo
+lastpass-sharp.*.suo
+lastpass-sharp.sln.DotSettings.user

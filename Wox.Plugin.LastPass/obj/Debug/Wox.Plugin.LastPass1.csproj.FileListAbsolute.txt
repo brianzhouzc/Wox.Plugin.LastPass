@@ -1,0 +1,14 @@
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\Wox.Plugin.LastPass1.dll
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\Wox.Plugin.LastPass1.pdb
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\LastPass.dll
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\Wox.Plugin.dll
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\LastPass.pdb
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\obj\Debug\Wox.Plugin.LastPass1.csproj.CoreCompileInputs.cache
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\obj\Debug\Wox.Plugin.LastPass1.csproj.CopyComplete
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\obj\Debug\Wox.Plugin.LastPass1.dll
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\obj\Debug\Wox.Plugin.LastPass1.pdb
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\plugin.json
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\Images\gray.png
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\Images\red.png
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\bin\Debug\credentials.txt
+D:\Users\Brian\Documents\lastpass-sharp-master\Wox.Plugin.LastPass1\obj\Debug\Wox.Plugin.LastPass1.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿{
+  "ID": "CB56C6D8F9094A2FBEB326C0B20F8633",
+  "ActionKeyword": "lp",
+  "Name": "LastPass",
+  "Description": "LastPass support for Wox",
+  "Author": "1461748123",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/1461748123/Wox.Plugin.LastPass",
+  "IcoPath": "Images\\red.png",
+  "ExecuteFileName": "Wox.Plugin.LastPass.dll"
+}
